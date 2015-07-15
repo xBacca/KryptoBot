@@ -59,7 +59,7 @@
         botName: "KryptoBot",
         language: "english",
         chatLink: "https://rawgit.com/xBacca/KryptoBot-main/master/lang/en.json",
-        startupCap: 1, // 1-200
+        startupCap: 100, // 1-200
         startupVolume: 50, // 0-100
         startupEmoji: true, // true or false
         autowoot: true,
