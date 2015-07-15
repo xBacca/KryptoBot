@@ -58,7 +58,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "KryptoBot",
         language: "english",
-        chatLink: "https://rawgit.com/xBacca/basicBot/master/lang/en.json",
+        chatLink: "https://rawgit.com/xBacca/KryptoBot-main/master/lang/en.json",
         startupCap: 1, // 1-200
         startupVolume: 50, // 0-100
         startupEmoji: true, // true or false
