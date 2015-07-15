@@ -102,7 +102,7 @@
         filterChat: true,
         etaRestriction: false,
         welcome: true,
-        opLink: null,
+        opLink: "https://github.com/xBacca/Plug-OP-list/blob/master/List",
         rulesLink: "Coming Soon!, for now go to the Community Forums",
         themeLink: null,
         fbLink: null,
@@ -115,11 +115,10 @@
         blacklists: {
             NSFW: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/NSFWlist.json",
             OP: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/OPlist.json",
-            BANNED: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/BANNEDlist.json"
         }
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript("https://rawgit.com/xBacca/basicBot/master/basicBot.js", extend);
+    $.getScript("https://rawgit.com/xBacca/KryptoBot-main/master/KryptoBot.js", extend);
 
 }).call(this);
