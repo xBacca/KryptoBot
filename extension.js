@@ -98,7 +98,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: false,
         motdInterval: 5,
-        motd: "Temporary Message of the Day",
+        motd: "Hi, and Welcome to KryptoSG's Plug.dj Community! EDM ONLY!!!!",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
