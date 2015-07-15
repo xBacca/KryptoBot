@@ -98,7 +98,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: false,
         motdInterval: 5,
-        motd: "Hi, and Welcome to KryptoSG's Plug.dj Community! EDM ONLY!!!!",
+        motd: "Welcome to KryptoSG's Community Music Arena on Plug.dj! Remember to read the rules!",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
