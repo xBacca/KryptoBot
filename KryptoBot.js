@@ -56,7 +56,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "KryptoBot",
+        botName: "HulixBot",
         language: "english",
         chatLink: "https://rawgit.com/xBacca/KryptoBot-main/master/lang/en.json",
         startupCap: 100, // 1-200
@@ -98,7 +98,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: false,
         motdInterval: 5,
-        motd: "Welcome to KryptoSG's Community Music Arena on Plug.dj! Remember to read the rules!",
+        motd: "Welcome to HulixMC's Community Music Arena on Plug.dj! Remember to read the rules!",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
@@ -106,8 +106,8 @@
         rulesLink: "Coming Soon!, for now go to the Community Forums",
         themeLink: null,
         fbLink: null,
-        youtubeLink: "https://www.youtube.com/user/KryptoTube",
-        website: "http://www.KryptoSG.enjin.com",
+        youtubeLink: "https://www.youtube.com/user/HulixTube",
+        website: "http://www.Hulix-MC.enjin.com",
         intervalMessages: [],
         messageInterval: 5,
         songstats: true,
